@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @shrutibetala7 , shruti's my nickname :P
-- 🌱 I’m currently learning Flutter
+- 👋 Hi, I’m Harshita, shruti's my nickname :P
+- 🌱 I’m learning Flutter (progressively..)
 - 📫 I check my mails daily @shrutibetala@gmail.com
 
 <!---
