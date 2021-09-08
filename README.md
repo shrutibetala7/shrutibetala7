@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Harshita, shruti's my nickname :P
+- 👋 Hi, I’m Harshita, shruti's my nickname!
 - 🌱 Flutter is on my Todo currently
+- 👩🏼‍🎨 UI/UX
 - 📫 I check my mails daily @shrutibetala@gmail.com
 
 <!---
