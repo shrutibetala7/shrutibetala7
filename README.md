@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Harshita, shruti's my nickname!
-- 🌱 Flutter is on my Todo currently
+- 🌱 Flutter
 - 👩🏼‍🎨 UI/UX
-- 📫 I check my mails daily @shrutibetala@gmail.com
+- ⛅️ AWS 
+- 📫 I check my mails daily @harshitabetala7@gmail.com
 
 <!---
 shrutibetala7/shrutibetala7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
