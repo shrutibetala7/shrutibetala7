@@ -7,18 +7,16 @@
 
 
 <h3>About me 👩🏽</h3>
-I'm currently an intern at Irdeto and a 2023 CS graduate.
-I've tried a lot of fields from digital marketing, development, to product and making lenses on Lens Studio!
-Finally, these were the fields that interested me the most:
-
+<li>I'm currently an intern at Irdeto and a 2023 CS graduate.
+<li>I've tried a lot of fields from digital marketing, development, to product and making lenses on Lens Studio!
+<li>Finally, these were the fields that interested me the most:
 <p>
-  <br>
 🌱 Flutter <br>
 🎨 Product Management <br>
 👩🏼‍🎨 UI/UX <br>
 ⛅️ AWS  <br>
 </p>
-
+<li>I have an eye for detail and am readily open to learning about new technologies as I go.
 <hr>
 
 <h3>Technical skills 🛠️ </h3>
@@ -59,11 +57,17 @@ Cloud
 <hr>
 
 
-
-
-
-
 📫 Connect with me @harshitabetala7@gmail.com
+<div id="badges">
+  <a href="https://www.linkedin.com/in/harshita-betala-ab4b32169/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/BetalaHarshita">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<!--- <img src="https://komarev.com/ghpvc/?username=shrutibetala7&style=flat-square&color=blue" alt=""/> --->
 
 <!---
 shrutibetala7/shrutibetala7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
