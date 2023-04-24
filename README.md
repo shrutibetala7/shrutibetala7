@@ -1,8 +1,69 @@
-- 👋 Hi, I’m Harshita, shruti's my nickname!
-- 🌱 Flutter
-- 👩🏼‍🎨 UI/UX
-- ⛅️ AWS 
-- 📫 I check my mails daily @harshitabetala7@gmail.com
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/cJSDRt8csBx0A7YFfh/giphy.gif?cid=ecf05e47yf8zji5ve2kx9n0t3jb5eu4czpycztzkk36q8v6m&rid=giphy.gif&ct=g" width="300"/>
+</div>
+<br>
+
+<h3>I'm Harshita, don't get confused by "shruti" that's just my nickname! </h3>
+
+
+<h3>About me 👩🏽</h3>
+I'm currently an intern at Irdeto and a 2023 CS graduate.
+I've tried a lot of fields from digital marketing, development, to product and making lenses on Lens Studio!
+Finally, these were the fields that interested me the most:
+
+<p>
+  <br>
+🌱 Flutter <br>
+🎨 Product Management <br>
+👩🏼‍🎨 UI/UX <br>
+⛅️ AWS  <br>
+</p>
+
+<hr>
+
+<h3>Technical skills 🛠️ </h3>
+Framework 
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;</div>
+
+Languages
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+</div>
+
+Tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-plain-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" **alt="Postman" width="40" height="40"/>
+</div>
+
+Database
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+</div>
+
+Cloud
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  </div>
+
+<hr>
+
+
+
+
+
+
+📫 Connect with me @harshitabetala7@gmail.com
 
 <!---
 shrutibetala7/shrutibetala7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
