@@ -11,10 +11,10 @@
 <li>I've tried a lot of fields from digital marketing, development, to product and making lenses on Lens Studio!
 <li>Finally, these were the fields that interested me the most:
 <p>
-🌱 Flutter <br>
 🎨 Product Management <br>
 👩🏼‍🎨 UI/UX <br>
 ⛅️ AWS  <br>
+🌱 Flutter <br>
 </p>
 <li>I have an eye for detail and am readily open to learning about new technologies as I go.
 <hr>
